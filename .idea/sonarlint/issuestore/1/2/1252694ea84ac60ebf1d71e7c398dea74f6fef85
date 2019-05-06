@@ -1,0 +1,65 @@
+
+jsquid:CommentedOutCodeLineê"<This block of commented-out lines of code should be removed.(±œ‹¯8°ΩÎ®-
+?squid:S1148t"#Use a logger to log this exception.(Ä…‘Ö˝ˇˇˇˇ
+T
+squid:S1065"9Replace this use of System.out or System.err by a logger.(ê†çÑ¸ˇˇˇˇ
+O
+squid:S106,"9Replace this use of System.out or System.err by a logger.(Îè¯∞
+O
+squid:S106@"9Replace this use of System.out or System.err by a logger.(¶Ø≈¢
+osquid:CommentedOutCodeLineç"<This block of commented-out lines of code should be removed.(Õ„µ¿¯ˇˇˇˇ8üÔÔÎ®-
+O
+squid:S106f"9Replace this use of System.out or System.err by a logger.(´ß∂‚
+T
+squid:S106`"9Replace this use of System.out or System.err by a logger.(˛óå®˝ˇˇˇˇ
+P
+squid:S106í"9Replace this use of System.out or System.err by a logger.(¡ﬂá‹
+O
+squid:S106G"9Replace this use of System.out or System.err by a logger.(àÛ˙⁄
+?squid:S1148i"#Use a logger to log this exception.(Ä…‘Ö˝ˇˇˇˇ
+T
+squid:S106R"9Replace this use of System.out or System.err by a logger.(ª⁄ﬂﬁ¯ˇˇˇˇ
+O
+squid:S1064"9Replace this use of System.out or System.err by a logger.(¶Ø≈¢
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æ¿±â˚ˇˇˇˇ
+@squid:S1148Ç"#Use a logger to log this exception.(Ä…‘Ö˝ˇˇˇˇ
+O
+squid:S1067"9Replace this use of System.out or System.err by a logger.(‘∞Ωò
+Nsquid:S1135s"2Complete the task associated to this TODO comment.(’ÃêÆ˛ˇˇˇˇ
+O
+squid:S106n"9Replace this use of System.out or System.err by a logger.(¶Ø≈¢
+P
+squid:S106ä"9Replace this use of System.out or System.err by a logger.(¶Ø≈¢
+O
+squid:S106z"9Replace this use of System.out or System.err by a logger.(¶Ø≈¢
+Osquid:S1135Å"2Complete the task associated to this TODO comment.(’ÃêÆ˛ˇˇˇˇ
+O
+squid:S1066"9Replace this use of System.out or System.err by a logger.(Ñ„‘„
+Osquid:S1135Ñ"2Complete the task associated to this TODO comment.(’ÃêÆ˛ˇˇˇˇ
+@squid:S1148Ö"#Use a logger to log this exception.(Ä…‘Ö˝ˇˇˇˇ
+T
+squid:S106V"9Replace this use of System.out or System.err by a logger.(˝Øµ¸¯ˇˇˇˇ
+O
+squid:S106~"9Replace this use of System.out or System.err by a logger.(¡ﬂá‹
+W
+squid:S106é"9Replace this use of System.out or System.err by a logger.(àÛ˙⁄8¶ûÚÎ®-
+T
+squid:S106["9Replace this use of System.out or System.err by a logger.(∆´í¯¯ˇˇˇˇ
+O
+squid:S1069"9Replace this use of System.out or System.err by a logger.( ‹ÀË
+^squid:S11924"GDefine a constant instead of duplicating this literal "\n\n\n" 5 times.(¶Ø≈¢
+T
+squid:S106:"9Replace this use of System.out or System.err by a logger.(Ô⁄‚¿˛ˇˇˇˇ
+O
+squid:S106q"9Replace this use of System.out or System.err by a logger.(¡ﬂá‹
+O
+squid:S1068"9Replace this use of System.out or System.err by a logger.(õƒ∏‡
+T
+squid:S106{"9Replace this use of System.out or System.err by a logger.(©í“Î˛ˇˇˇˇ
+U"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(Ñ≥¢œ¸ˇˇˇˇ
+]squid:S2147É"ECombine this catch with the one at line 128, which has the same body.(çî˝æ
+@squid:S1148ï"#Use a logger to log this exception.(Ä…‘Ö˝ˇˇˇˇ
+O
+squid:S106B"9Replace this use of System.out or System.err by a logger.(«Ï©∂
+O
+squid:S106M"9Replace this use of System.out or System.err by a logger.(πûï§
